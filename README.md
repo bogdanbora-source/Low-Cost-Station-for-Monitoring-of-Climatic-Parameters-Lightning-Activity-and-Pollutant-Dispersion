@@ -1,0 +1,2 @@
+# Low-Cost-Station-for-Monitoring-of-Climatic-Parameters-Lightning-Activity-and-Pollutant-Dispersion
+This work presents a two-node experimental station, built from commodity microcontroller hardware, that measures climatic parameters,  electromagnetic (lightning) activity and the concentrations of particulate and gaseous pollutants from a single site, and couples these measurements to an implementation of the OML multi-Gaussian dispersion model.
