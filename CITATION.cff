@@ -1,1 +1,9 @@
-https://doi.org/10.5281/zenodo.21976660
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Joe
+  given-names: Johnson
+orcid: https://orcid.org/0000-0000-0000-0000
+title:bogdanbora-source/Low-Cost-Station-for-Monitoring-of-Climatic-Parameters-Lightning-Activity-and-Pollutant-Dispersion: An Experimental Low-Cost Station for Coupled Monitoring of Climatic Parameters, Lightning Activity and Pollutant Dispersion, with an Adapted OML Multi-Gaussian Model
+version: OML-model
+date-released: 2026-08-17
